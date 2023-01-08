@@ -1,2 +1,2 @@
-# Hackerrank-sql
-Contains all my hackerrank SQL solutions
+# Hackerrank
+Contains all my hackerrank solutions
