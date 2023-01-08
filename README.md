@@ -1,2 +1,4 @@
 # Hackerrank
-Contains all my hackerrank solutions
+Contains all my SQL hackerrank solutions
+
+[Profile](https://www.hackerrank.com/dezettermic)
